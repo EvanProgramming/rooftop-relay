@@ -1,0 +1,7 @@
+.godot/
+*.import
+build/
+rooftop-relay-web.zip
+*.translation
+*.tmp
+*.log
